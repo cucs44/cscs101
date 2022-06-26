@@ -1,5 +1,6 @@
 # Before you start
-This repo help you setup the environment
+This repo help you setup the environment.  
+We suggest using UNIX system to devleop, if you are using window, you may try WSL/VM/CSE server
 # Using SSH to connect linux server
 In this session, we are connect to cse linux server via vscode. It would take up around 400MB on your allocated space on linux server. If you want to save the space, use terminal instead. Also you may want to enable   `[remote.ssh: remote server listen on socket]` for your remote:ssh plugin before connect.
 1. Connect to CUHK CSE network  

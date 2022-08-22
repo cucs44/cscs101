@@ -140,38 +140,38 @@ You may want to set these config
 
 ### Editing
 
-`ctrl+f`: find, you can also do highlight then ctrl+f (or other find / replace hotkey), VSCode generate the required Regex for you.
+`ctrl + f`: find, you can also do highlight then ctrl+f (or other find / replace hotkey), VSCode generate the required Regex for you.
 
-`ctrl+shift+F`: find globally
+`ctrl + shift + F`: find globally
 
-`ctrl+h`: replace
+`ctrl + h`: replace
 
-`ctrl+shift+H`: replace globally
+`ctrl + shift + H`: replace globally
 
-`ctrl+g`: go to line (enter a line number)
+`ctrl + g`: go to line (enter a line number)
 
-`ctrl+shift+arrow`: multi-line text cursor
+`ctrl + shift+arrow`: multi-line text cursor
 
-`ctrl+alt+shift+↓ / ↑`: select multiple line
+`ctrl + alt + shift + ↓ / ↑`: select multiple line
 
-`ctrl+/`: comment / uncomment
+`ctrl + /`: comment / uncomment
 
-`ctrl+w`: close file
+`ctrl + w`: close file
 
-`ctrl+shift+I`: format file
+`ctrl + shift + I`: format file
 
-`alt+shift+↓ / ↑`: copy current line and insert below/above
+`alt + shift + ↓ / ↑`: copy current line and insert below/above
 
-`alt+↓ / ↑`: move line down/up
+`alt + ↓ / ↑`: move line down/up
 
-`ctrl+k``ctrl+0`: fold/unfold all region
+`ctrl + k` then `ctrl + 0`: fold/unfold all region
 
 ### Terminal
 
-`` ctrl+` ``: open / close terminal, focus to terminal
+`` ctrl + ` ``: open / close terminal, focus to terminal
 
-`ctrl+shift+5`: split terminal into 2
+`ctrl + shift + 5`: split terminal into 2
 
-``ctrl+shift+` ``: new terminal
+``ctrl + shift + ` ``: new terminal
 
-`ctrl+d`: terminate current terminal
+`ctrl + d`: terminate current terminal

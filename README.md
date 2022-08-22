@@ -2,7 +2,8 @@
 
 This repo help you setup the environment.  
 We suggest using UNIX/UNIX-like system to develop, if you are using Window, you may try WSL/VM/CSE server.  
-We also suggest using VSCode as develop tool. But you can choose anything you prefer (nvim/nano/emacs/visual studio/Jet brain/notepad)
+We also suggest using VSCode as develop tool. But you can choose anything you prefer (nvim/nano/emacs/visual studio/Jet brain/notepad)  
+For font, we suggest Source Code Pro if you do not have any preference.
 
 ## Using SSH to connect CUHK CSE linux server with VSCode
 
@@ -116,8 +117,6 @@ Note: You can drag a file into explorer to upload that to your remote server. Ri
 
 You may want to set these config  
 `"terminal.integrated.scrollback": 100000`: increase your scrollback buffer large enough to see some error message, default of 1000 is grossly not enough.  
-
-`"editor.formatOnSave": true`: formate your code on save, this feature will call the formatter of your own choice, you have to install some formatter for it work properly.  
 
 `"diffEditor.ignoreTrimWhitespace": false`: some programming language(like Python) care about whitespace.
 
